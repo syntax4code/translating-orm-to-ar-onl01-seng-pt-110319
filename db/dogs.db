@@ -1,1 +1,1 @@
-class Dogs<<ActiveRecord::Base
+class Dogs < ActiveRecord::Base
